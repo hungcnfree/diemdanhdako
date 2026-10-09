@@ -1,0 +1,8 @@
+{
+  "name": "Điểm Danh Thông Minh",
+  "description": "Ứng dụng điểm danh học sinh thông minh bằng giọng nói và nhập nhanh đa học sinh, tối ưu hóa toàn diện cho thiết bị di động.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
